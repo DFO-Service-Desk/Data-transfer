@@ -7,14 +7,14 @@ To synchronized the files between account use rsync linux command:
 
   rsync -az source/ login@serveur.org:/destination/
 
-## Scripts location:
+## Scripts:
 
 ### Maestro:
 Data transfer of custom products via Maestro are in the directory :
 
   ~/.suites/[project]
 
-### Scripts:
+### Scripts alone:
 All the scripts that create product and transfer data are in the directory (note that the .log files of the hcron jobs are in there):
 
   ~/operation/[project]
