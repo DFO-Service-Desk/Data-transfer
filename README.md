@@ -4,7 +4,7 @@ Describe and track the data transfer from DFO Service Desk to clients.
 
 **Account**: sdfo000/sdf500 (~mirror). To synchronized the files between account use rsync linux command:
 
-  rsync -az source/ login@serveur.org:/destination/
+  rsync -az source/ login@host:/destination/
   
 **Best pratices**: Run your script in sdfo500 if needed but put a copy in the sdfo000 account following the next three steps. For the 3) hcron jobs, add a ~ at the end of the name to indicate that this job is not running at the moment.
 
