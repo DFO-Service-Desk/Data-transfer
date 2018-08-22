@@ -14,7 +14,7 @@ Data transfer of custom products via Maestro are in the directory :
 
   ~/.suites/[project]
 
-### Scripts alone:
+### Scripts only:
 All the scripts that create product and transfer data are in the directory (note that the .log files of the hcron jobs are in there):
 
   ~/operation/[project]
