@@ -26,5 +26,5 @@ The hcron jobs starting and running the Maestro suites and the scripts for data 
   ~/.hcron/hcron1.science.gc.ca/events/[project]
 
 
-
+![map setting (left bar)](https://github.com/DFO-Service-Desk/Data-transfer/blob/master/Data_transfer.png "Map Settings")
 
