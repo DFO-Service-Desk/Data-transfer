@@ -2,8 +2,7 @@
 
 Describe and track the data transfer from DFO Service Desk to clients.
 
-Account: sdfo000/sdf500 (~mirror)
-To synchronized the files between account use rsync linux command:
+Account: sdfo000/sdf500 (~mirror). To synchronized the files between account use rsync linux command:
 
   rsync -az source/ login@serveur.org:/destination/
 
