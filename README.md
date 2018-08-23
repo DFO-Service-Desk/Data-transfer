@@ -24,13 +24,15 @@ All the scripts that create product and transfer data are in the directory (note
 The hcron jobs starting and running the Maestro suites and the scripts for data transfer (see above) are launched via :
 
   ~/.hcron/hcron1.science.gc.ca/events/[project]
-
-
-![map setting (left bar)](https://github.com/DFO-Service-Desk/Data-transfer/blob/master/Data_transfer.png "Map Settings")
-
-## 4) Storage:
+  
+ ## 4) Storage:
 
 The data will be stored in the group account directory under the name of the project: 
 
 ~/SeDOO/[project]
+
+
+![map setting (left bar)](https://github.com/DFO-Service-Desk/Data-transfer/blob/master/Data_transfer.png "Map Settings")
+
+
 
