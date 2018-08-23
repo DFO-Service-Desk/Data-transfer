@@ -28,3 +28,9 @@ The hcron jobs starting and running the Maestro suites and the scripts for data 
 
 ![map setting (left bar)](https://github.com/DFO-Service-Desk/Data-transfer/blob/master/Data_transfer.png "Map Settings")
 
+## 4) Storage:
+
+The data will be stored in the group account directory under the name of the project: 
+
+~/SeDOO/[project]
+
