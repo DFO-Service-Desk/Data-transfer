@@ -1,4 +1,4 @@
-# Data transfer of regular lat_lon grid to CCG
+# Data transfer of RIOPS regular lat_lon grid to CCG
 
 1) via the Maestro suite:
 
@@ -7,3 +7,7 @@
 data cummulates in:
 
  /home/sdfo500/data/ppp2/maestro/riops/netcdf/prog/riops
+
+2) trouble shouting:
+
+
