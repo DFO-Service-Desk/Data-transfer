@@ -8,6 +8,9 @@ data cummulates in:
 
  /home/sdfo500/data/ppp2/maestro/riops/netcdf/prog/riops
 
-2) trouble shouting:
+* you can verify the communication with the maestro server :
 
+mserver_check -m
+
+and reload the cron job via the .hcron
 
