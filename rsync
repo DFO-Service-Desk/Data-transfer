@@ -1,0 +1,7 @@
+
+# Projet de Validation OPP:
+# Transfer de fichiers utilisant rsync
+rsync -az source/ login@serveur.org:/destination/
+
+# must be included in a job
+

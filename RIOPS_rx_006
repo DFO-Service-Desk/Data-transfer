@@ -1,9 +1,0 @@
-
-# Projet de Validation OPP:
-# Transfer de fichiers utilisant rsync
-rsync -az source/ login@serveur.org:/destination/
-
-Ligne de commande pour répertoire:
-rsync -avr /home/yml000/data_hall1/maestro_archives/Creg12/SAM2/Creg12v100/rx_006/*/DIA/Creg12-CMC-ANAL* sdfo000@gpsc-in:/fs/vnas_Hdfo/odis/sdfo000/sdfo000/ECCC_archive/requests/rx_006
-
-
